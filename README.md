@@ -7,7 +7,7 @@ Animation created with SwiftUI.
 Hello there, I'm Neri and in this repository, I'll be posting the code for the Submit Button animation that you see on my Instagram 
     [**@neri_iosdev**](https://www.instagram.com/neri_iosdev/).
     
-I hope you'll learn something new and use these animation and concept to achieve great effects for your apps.
+I hope you'll learn something new and use this animation and concept to achieve great effects for your apps.
 
 #### Submit Button Animation
 
